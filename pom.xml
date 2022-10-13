@@ -2,7 +2,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>ca.vanier</groupId>
-    <artifactId>Object</artifactId>
+    <artifactId>Object_Manager</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
