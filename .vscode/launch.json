@@ -5,6 +5,20 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "type": "java",
+            "name": "Launch mainob",
+            "request": "launch",
+            "mainClass": "ca.vanier.mainob",
+            "projectName": "calculator"
+        },
+        {
+            "type": "java",
+            "name": "Launch main",
+            "request": "launch",
+            "mainClass": "ca.vanier.main",
+            "projectName": "calculator"
+        },
+        {
             "name": "Java",
             "type": "java",
             "request": "launch",
